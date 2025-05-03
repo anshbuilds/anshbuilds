@@ -5,7 +5,7 @@
 
 ## 🔧 Tech Stack
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Django, Flask
+- Backend: Django, Flask, PHP
 - Database: MySQL
 - Tools: Git, GitHub, Postman
 
