@@ -4,7 +4,7 @@
 🚀 Passionate about Tech + Strategy  
 
 ## 🔧 Tech Stack
-- Frontend: HTML, CSS, JavaScript, React
+- Frontend: HTML, CSS, JavaScript
 - Backend: Django, Flask, PHP
 - Database: MySQL
 - Tools: Git, GitHub, Postman
